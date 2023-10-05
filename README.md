@@ -1,9 +1,9 @@
 # OpenGL-Pirate-Game
-Descriere generala
+**Descriere generala**
 
 Scena 2D este reprezentată de o corabie de pirați, marea, insule cu palmieri, cerul, soarele și scorul afișat. Corabia de pirați se poate mișca pe axa OX cu ajutorul mouse-ului. De la limita superioară a axei OY și de pe poziții random în raport cu axa OX vor apărea obiecte de diferite tipuri în mod random care se vor mișca în jos pe axa OY. Obiectele care pot apărea în mod random sunt reprezentate de o sticlă de rom, o monedă, un cufăr și o ghiulea. Obiectivul jucătorului este să culeagă cât mai multe cufere, sticle și monede, dar în același timp să se ferească de ghiulea. Atingerea unei ghiulele presupune sfârșitul jocului. Pentru a intra în atmosfera piraților scena 2D va fi acompaniată de coloana sonoră a filmului “Pirates of the Caribbean”.
 
-Aspecte punctuale
+**Aspecte punctuale**
 
 • Jocul poate fi întrerupt prin apăsarea tastei ESC, iar acest lucru este implementat cu ajutorul funcției glutKeyboardFunc
 
